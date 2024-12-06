@@ -24,10 +24,6 @@ The **PhotoAppUsing-CollectionView** project is designed to demonstrate the capa
 
 ---
 
-## **Image**
-<img width="434" alt="Screenshot 2024-12-06 at 3 10 32 PM" src="https://github.com/user-attachments/assets/9de3e533-8ed0-4f07-ba0c-c10079f5e4e6">
-
-
 ## **Features**
 - 🖼️ Dynamic grid layout using **UICollectionView**.
 - 🚀 Efficient scrolling with reusable custom cells.
@@ -76,7 +72,7 @@ Add screenshots or GIFs showcasing the app:
 
 | **Gallery View** |
 |------------------|
-| ![Screenshot](https://via.placeholder.com/300) |
+| <img width="434" alt="Screenshot 2024-12-06 at 3 10 32 PM" src="https://github.com/user-attachments/assets/9de3e533-8ed0-4f07-ba0c-c10079f5e4e6"> |
 
 ---
 
